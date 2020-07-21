@@ -1,0 +1,371 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           terrain-50-dtm_3563996
+Extent:           298964.5687307826, 468804.8996534761 - 396066.4988522426, 537056.1454372961
+Date Ordered:     11 June 2020 at 09:06:43
+Product:          OS Terrain 50
+Version:          July 2019
+Format:           ASC
+Theme:            N/A
+Area:             82 tiles
+Tiles:
+ 
+Tile Name:        nx90
+Extent:           290000.0, 500000.0 - 300000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        nx91
+Extent:           290000.0, 510000.0 - 300000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        nx92
+Extent:           290000.0, 520000.0 - 300000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        nx93
+Extent:           290000.0, 530000.0 - 300000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny00
+Extent:           300000.0, 500000.0 - 310000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny01
+Extent:           300000.0, 510000.0 - 310000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny02
+Extent:           300000.0, 520000.0 - 310000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny03
+Extent:           300000.0, 530000.0 - 310000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny10
+Extent:           310000.0, 500000.0 - 320000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny11
+Extent:           310000.0, 510000.0 - 320000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny12
+Extent:           310000.0, 520000.0 - 320000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny13
+Extent:           310000.0, 530000.0 - 320000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny20
+Extent:           320000.0, 500000.0 - 330000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny21
+Extent:           320000.0, 510000.0 - 330000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny22
+Extent:           320000.0, 520000.0 - 330000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny23
+Extent:           320000.0, 530000.0 - 330000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny30
+Extent:           330000.0, 500000.0 - 340000.0, 510000.0
+Last Amended:     26 July 2016
+  
+Tile Name:        ny31
+Extent:           330000.0, 510000.0 - 340000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny32
+Extent:           330000.0, 520000.0 - 340000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny33
+Extent:           330000.0, 530000.0 - 340000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny40
+Extent:           340000.0, 500000.0 - 350000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny41
+Extent:           340000.0, 510000.0 - 350000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny42
+Extent:           340000.0, 520000.0 - 350000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny43
+Extent:           340000.0, 530000.0 - 350000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny50
+Extent:           350000.0, 500000.0 - 360000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny51
+Extent:           350000.0, 510000.0 - 360000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny52
+Extent:           350000.0, 520000.0 - 360000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny53
+Extent:           350000.0, 530000.0 - 360000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny60
+Extent:           360000.0, 500000.0 - 370000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny61
+Extent:           360000.0, 510000.0 - 370000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny62
+Extent:           360000.0, 520000.0 - 370000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny63
+Extent:           360000.0, 530000.0 - 370000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny70
+Extent:           370000.0, 500000.0 - 380000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny71
+Extent:           370000.0, 510000.0 - 380000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny72
+Extent:           370000.0, 520000.0 - 380000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny73
+Extent:           370000.0, 530000.0 - 380000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny80
+Extent:           380000.0, 500000.0 - 390000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny81
+Extent:           380000.0, 510000.0 - 390000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny82
+Extent:           380000.0, 520000.0 - 390000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny83
+Extent:           380000.0, 530000.0 - 390000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny90
+Extent:           390000.0, 500000.0 - 400000.0, 510000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny91
+Extent:           390000.0, 510000.0 - 400000.0, 520000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny92
+Extent:           390000.0, 520000.0 - 400000.0, 530000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        ny93
+Extent:           390000.0, 530000.0 - 400000.0, 540000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd08
+Extent:           300000.0, 480000.0 - 310000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd09
+Extent:           300000.0, 490000.0 - 310000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd16
+Extent:           310000.0, 460000.0 - 320000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd17
+Extent:           310000.0, 470000.0 - 320000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd18
+Extent:           310000.0, 480000.0 - 320000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd19
+Extent:           310000.0, 490000.0 - 320000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd26
+Extent:           320000.0, 460000.0 - 330000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd27
+Extent:           320000.0, 470000.0 - 330000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd28
+Extent:           320000.0, 480000.0 - 330000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd29
+Extent:           320000.0, 490000.0 - 330000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd36
+Extent:           330000.0, 460000.0 - 340000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd37
+Extent:           330000.0, 470000.0 - 340000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd38
+Extent:           330000.0, 480000.0 - 340000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd39
+Extent:           330000.0, 490000.0 - 340000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd46
+Extent:           340000.0, 460000.0 - 350000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd47
+Extent:           340000.0, 470000.0 - 350000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd48
+Extent:           340000.0, 480000.0 - 350000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd49
+Extent:           340000.0, 490000.0 - 350000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd56
+Extent:           350000.0, 460000.0 - 360000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd57
+Extent:           350000.0, 470000.0 - 360000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd58
+Extent:           350000.0, 480000.0 - 360000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd59
+Extent:           350000.0, 490000.0 - 360000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd66
+Extent:           360000.0, 460000.0 - 370000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd67
+Extent:           360000.0, 470000.0 - 370000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd68
+Extent:           360000.0, 480000.0 - 370000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd69
+Extent:           360000.0, 490000.0 - 370000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd76
+Extent:           370000.0, 460000.0 - 380000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd77
+Extent:           370000.0, 470000.0 - 380000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd78
+Extent:           370000.0, 480000.0 - 380000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd79
+Extent:           370000.0, 490000.0 - 380000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd86
+Extent:           380000.0, 460000.0 - 390000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd87
+Extent:           380000.0, 470000.0 - 390000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd88
+Extent:           380000.0, 480000.0 - 390000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd89
+Extent:           380000.0, 490000.0 - 390000.0, 500000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd96
+Extent:           390000.0, 460000.0 - 400000.0, 470000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd97
+Extent:           390000.0, 470000.0 - 400000.0, 480000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd98
+Extent:           390000.0, 480000.0 - 400000.0, 490000.0
+Last Amended:     29 May 2019
+  
+Tile Name:        sd99
+Extent:           390000.0, 490000.0 - 400000.0, 500000.0
+Last Amended:     29 May 2019
+     
