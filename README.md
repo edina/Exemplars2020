@@ -23,8 +23,15 @@ For a list of finished teaching tools with short descriptions, please refer to t
 If you are interested in the current packages and their version numbers available in all the live and beta Notebook Servers offered by Noteable. The notebook automates the collection and compilation of information on the libraries. 
 
 ## Visuals
-Here are some excerpts from the exemplars and teaching documents.
-
+Here are some excerpts from the exemplars and teaching documents within this repo.
+EarthPy Notebook showing elevation data
+![Animation of Earthpy hillshade map](HillshadeAnimation.gif)
+ObsPy Notebook showing seismic signal processing
+![Animation of seismogram filtering](FilteringAnimation.gif)
+KMEans Compression Notebook showing image compression
+![Animation of image compression](ImageFilter.gif)
+Regression Medical Notebook showing medical data analysis
+![Animation of interactive regression plot](bokeh_scroll_ml.gif)
 
 ## Usage
 The most optimal way to run the notebooks would be through your Noteable account. If you do not have an account with Noteable yet, you can run them locally, although it might require you to install additional packages for some of them. 
