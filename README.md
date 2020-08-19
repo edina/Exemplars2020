@@ -24,12 +24,16 @@ If you are interested in the current packages and their version numbers availabl
 
 ## Visuals
 Here are some excerpts from the exemplars and teaching documents within this repo.
+
 EarthPy Notebook showing elevation data
 ![Animation of Earthpy hillshade map](HillshadeAnimation.gif)
+
 ObsPy Notebook showing seismic signal processing
 ![Animation of seismogram filtering](FilteringAnimation.gif)
-KMEans Compression Notebook showing image compression
+
+KMeans Compression Notebook showing image compression
 ![Animation of image compression](ImageFilter.gif)
+
 Regression Medical Notebook showing medical data analysis
 ![Animation of interactive regression plot](bokeh_scroll_ml.gif)
 
@@ -48,6 +52,7 @@ If you have any questions or would like to report a bug, raise an issue at https
 
 ## Contributing
 Contributions of exemplar notebooks or teaching documents are welcome, as long as they follow the template and structure provided by [our exemplar template](https://github.com/edina/Exemplars2020/blob/master/GeneralExemplars/ExemplarTemplate.ipynb).
+
 To contribute:
 * Fork the project and clone locally.
 * Create an upstream remote and sync your local copy before you branch.
