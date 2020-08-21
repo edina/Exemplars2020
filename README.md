@@ -20,7 +20,7 @@ A collection of tutorials, templates and quick reference guides mainly for teach
 For a list of finished teaching tools with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/teaching_templates/).
     
 ### List of libraries
-If you are interested in the current packages and their version numbers available in all the live and beta Notebook Servers offered by Noteable. The notebook automates the collection and compilation of information on the libraries. 
+If you are interested in the current packages and their version numbers available in all the live and beta Notebook Servers offered by Noteable.
 
 ## Visuals
 Here are some excerpts from the exemplars and teaching documents within this repo.
