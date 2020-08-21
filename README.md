@@ -10,7 +10,8 @@ A collection of notebook exemplars showcasing different libraries and aspects of
 * Geospatial Notebooks - run in Geospatial Notebook Server
 * Machhine Learning Notebooks - run in Standard Notebook Server
 * R with Statistics Notebooks - run in R with Stan Notebook Server
-For a list of finished exemplars with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/exemplars/).
+* Haskell Notebooks - run in Haskell Notebook Server
+For a list of exemplars with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/exemplars/).
 
 ### Teaching documents
 A collection of tutorials, templates and quick reference guides mainly for teaching purposes.
@@ -65,7 +66,7 @@ To contribute:
 ## Authors and acknowledgements
 Dora Hegedus - Student Coding Experience Intern for Noteable, Edina
 
-Robyn Greene - Student Coding Experience Intern for Noteable, Edina
+[Robyn Greene](https://github.com/robyngreene) - Student Coding Experience Intern for Noteable, Edina
 
 ## License
 [BSD 3-Clause "New" or "Revised" License](https://github.com/edina/Exemplars2020/blob/master/LICENSE)
