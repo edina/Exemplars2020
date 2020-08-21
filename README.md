@@ -26,23 +26,23 @@ If you are interested in the current packages and their version numbers availabl
 Here are some excerpts from the exemplars and teaching documents within this repo.
 
 ### EarthPy Notebook showing elevation data
-![Animation of Earthpy hillshade map](HillshadeAnimation.gif)
+![Animation of Earthpy hillshade map](images/HillshadeAnimation.gif)
 
 ### ObsPy Notebook showing seismic signal processing
-![Animation of seismogram filtering](FilteringAnimation.gif)
+![Animation of seismogram filtering](images/FilteringAnimation.gif)
 
 ### KMeans Compression Notebook showing image compression
-![Animation of image compression](ImageFilter.gif)
+![Animation of image compression](images/ImageFilter.gif)
 
 ### Regression Medical Notebook showing medical data analysis
-![Animation of interactive regression plot](bokeh_scroll_ml.gif)
+![Animation of interactive regression plot](images/bokeh_scroll_ml.gif)
 
 ## Usage
 The most optimal way to run the notebooks would be through your Noteable account. If you do not have an account with Noteable yet, you can run them locally, although it might require you to install additional packages for some of them. 
 
 ### Within Noteable
 If you already have a Noteable account, you can easily clone this repository by clicking on `GitRepo+`. This button is located on the right side above your working tree on the launch page. Once you click on it, paste in the url of the github repo `https://github.com/edina/Exemplars2020.git`. This will then make a copy of the current repository which you can run and alter in your Noteable home directory.
-![Animation of cloning Exemplars2020 github repo using GitRepo+](CloningExemplarsRepo.gif)
+![Animation of cloning Exemplars2020 github repo using GitRepo+](images/CloningExemplarsRepo.gif)
 
 ### On your local machine
 If you do not have a Noteable account yet, you can download the zip file to your local directory or use a desktop git client to clone the repository onto your local directory. Depending on which pakcages you have previously installed on your computer, you might have to use `pip install` or `conda install` to install any missing packages for the notebooks to run smoothly.
