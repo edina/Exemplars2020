@@ -69,6 +69,7 @@ To contribute:
 * Respond to any code review feedback.
 
 ## Authors and acknowledgements
+
 Dora Hegedus - Student Coding Experience Intern for Noteable, Edina
 
 [Robyn Greene](https://github.com/robyngreene) - Student Coding Experience Intern for Noteable, Edina
@@ -82,4 +83,4 @@ Bert Robberechts - Lead Developer, Noteable Service
 [BSD 3-Clause "New" or "Revised" License](https://github.com/edina/Exemplars2020/blob/master/LICENSE)
 
 ## Project status
-This work was started as a project for Summer 2020, and has remained the focal point for exemplars & tutorial documents relating to the noteable service.
+This work was started as a project for Summer 2020, and has remained the focal point for exemplars & tutorial documents relating to the noteable service.no wait....
