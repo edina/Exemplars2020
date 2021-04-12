@@ -13,11 +13,13 @@ A collection of resources available for current and prospective users of Noteabl
 
 ### Exemplars
 A collection of notebook exemplars showcasing different libraries and aspects of Noteable.
+* Coding activities for Schols - run in Standard Notebook Server
 * Geospatial Notebooks - run in Geospatial Notebook Server
+* Haskell Notebooks - run in Haskell Notebook Server
 * Machhine Learning Notebooks - run in Standard Notebook Server
 * R with Statistics Notebooks - run in R with Stan Notebook Server
-* Haskell Notebooks - run in Haskell Notebook Server
-For a list of exemplars with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/exemplars/).
+
+For a list of exemplars with short descriptions, please refer to the [Exemplar Notebooks](ExemplarNotebooks.md) page.
 
 ### Teaching documents
 A collection of tutorials, templates and quick reference guides mainly for teaching purposes.
@@ -26,9 +28,6 @@ A collection of tutorials, templates and quick reference guides mainly for teach
 * Quick Reference Guides
 For a list of finished teaching tools with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/teaching_templates/).
     
-### List of libraries
-If you are interested in the current packages and their version numbers available in all the live and beta Notebook Servers offered by Noteable.
-
 ## Visuals
 Here are some excerpts from the exemplars and teaching documents within this repo.
 
@@ -74,10 +73,13 @@ Dora Hegedus - Student Coding Experience Intern for Noteable, Edina
 
 [Robyn Greene](https://github.com/robyngreene) - Student Coding Experience Intern for Noteable, Edina
 
-Alexandru Hau -Student Coding Experience Intern for Noteable, Edina
+Alexandru Hau - Student Coding Experience Intern for Noteable, Edina
 
+Ian Stuart - Developer, Noteable Service
+
+Bert Robberechts - Lead Developer, Noteable Service
 ## License
 [BSD 3-Clause "New" or "Revised" License](https://github.com/edina/Exemplars2020/blob/master/LICENSE)
 
 ## Project status
-This was a project for Summer 2020 and has mostly been concluded.
+This work was started as a project for Summer 2020, and has remained the focal point for exemplars & tutorial documents relating to the noteable service.
