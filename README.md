@@ -14,7 +14,7 @@ A collection of resources available for current and prospective users of Noteabl
 ### Exemplars
 A collection of notebook exemplars showcasing different libraries and aspects of Noteable.
 * Geospatial Notebooks - run in Geospatial Notebook Server
-* Machhine Learning Notebooks - run in Standard Notebook Server
+* Machine Learning Notebooks - run in Standard Notebook Server
 * R with Statistics Notebooks - run in R with Stan Notebook Server
 * Haskell Notebooks - run in Haskell Notebook Server
 For a list of exemplars with short descriptions, please refer to the [Documentations page on the Noteable website](https://noteable.edina.ac.uk/exemplars/).
