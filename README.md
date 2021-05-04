@@ -1,4 +1,4 @@
-# Exemplars2020/21
+# Noteable Jupyter notebook Exemplars 2020/21
 
 Guides, tutorials and exemplar notebooks for the Noteable service.
 
