@@ -1,4 +1,4 @@
-# Exemplars2020
+# Noteable Jupyter notebook Exemplars 2020/21
 
 Guides, tutorials and exemplar notebooks for the Noteable service.
 
@@ -13,7 +13,6 @@ A collection of resources available for current and prospective users of Noteabl
 
 ### Exemplars
 A collection of notebook exemplars showcasing different libraries and aspects of Noteable.
-* Coding activities for Schols - run in Standard Notebook Server
 * Geospatial Notebooks - run in Geospatial Notebook Server
 * Haskell Notebooks - run in Haskell Notebook Server
 * Machhine Learning Notebooks - run in Standard Notebook Server
