@@ -2,7 +2,6 @@
 <!-- TOC -->
 
 - [Exemplar Notebooks](#exemplar-notebooks)
-    - [Coding Activities for Schools](#coding-activities-for-schools)
     - [GeoExemplars](#geoexemplars)
     - [Haskell](#haskell)
     - [Machine Learning Notebooks](#machine-learning-notebooks)
@@ -12,18 +11,6 @@
 <!-- /TOC -->
 
 A collection of notebook exemplars using different libraries pre-installed in Noteable, which can be used as templates or inspiration for your own pieces of code.
-
-## Coding Activities for Schools
-
-A selection of notebooks that show possible uses for various years in schools:
-
-* National 3
-* National 4
-* National 5
-* National Higher
-* Advanced Higher
-
-.... and then a couple of `Tutorials` on Encrypting/Decrypting.
 
 ## GeoExemplars
 The following exemplars need to be run in the Geopspatial Notebook Server as some of the libraries used are only pre-installed there.
