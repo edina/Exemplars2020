@@ -6,7 +6,7 @@ This repo is divided into topical exemplars which make use of the Noteable servi
 In this repo, you will find Jupyter notebooks focussing on Geospatial analysis, Machine Learning, medical analysis and more. 
 Coding activities for students include a set of tutorials and exemplar notebooks for reference, adaptation and use in classroom, in accordance with the Scottish Curriculum for Computing Science at National 3, 4, 5, Higher and Advanced Higher levels. 
 
-Further documentation for the Noteable service can be found at: www.notable.edina.ac.uk 
+Further documentation for the Noteable service can be found at: https://notable.edina.ac.uk 
 
 ## Description
 A collection of resources available for current and prospective users of Noteable.
